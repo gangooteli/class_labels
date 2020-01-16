@@ -11,7 +11,7 @@ https://tech.amikelive.com/node-718/what-object-categories-labels-are-in-coco-da
 
 
 [Keras][Keras] [uses][keras-imagenet-utils] this
-  [data][imagenet/class_index.json] for its human-readable labels. The labels consist of the
+  [data](imagenet/class_index.json) for its human-readable labels. The labels consist of the
   first synonym from each synset (with spaces replaced with underscores).
 
 
